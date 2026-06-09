@@ -22,4 +22,4 @@ The study analyzed 15+ distinct legal workflows (e.g., contract review, regulato
 For a deep dive into the experimental results, data processing pipelines, and root-cause analysis of model failures, see the [Full Methodology Document](/docs/methodology.pdf).
 
 ## Contact
-Fatima Suleiman | [Your Email] | [Your LinkedIn]
+Fatima Suleiman | Timasule.1@gmail.com | 
